@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "decifra_string.h": "c"
+  }
+}
